@@ -1,0 +1,5 @@
+Patch Config,MAE,RMSE
+single-4,0.4923,0.7834
+single-8,0.4756,0.7612
+single-16,0.4834,0.7723
+multi (4+8+16),0.431,0.7123
