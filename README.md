@@ -7,6 +7,16 @@ The work is structured into multiple stages, starting from data preprocessing an
 ---
 
 ## Project Structure
+ecg-imputation/
+│
+├── notebook/
+│ └── GNNProjectCodeMain.ipynb # main notebook with all experiments
+│
+├── Images/ # plots and visualizations
+├── results/ # CSV results from experiments
+├── requirements.txt
+├── .gitignore
+└── README.md
 
 The raw dataset is not included since it’s publicly available on PhysioNet. The notebook downloads it automatically when you run it.
 
